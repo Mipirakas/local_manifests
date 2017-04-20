@@ -6,7 +6,6 @@
   <project name="DirtyUnicorns/android_external_connectivity" path="external/connectivity" remote="github" revision="n7x-caf" />
   <project name="DirtyUnicorns/android_system_qcom" path="system/qcom" remote="github" revision="n7x-caf" />
   <project name="Mipirakas/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="test" />
-  <project name="DirtyUnicorns/android_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="github" revision="n7x-caf" />
   <project name="DirtyUnicorns/android_external_ant-wireless_antradio-library" path="external/ant-wireless/antradio-library" remote="github" revision="n7x-caf" />
   <project name="DirtyUnicorns/android_external_ant-wireless_ant_native" path="external/ant-wireless/antant_native" remote="github" revision="n7x-caf" />
   <project name="DirtyUnicorns/android_external_ant-wireless_ant_service" path="external/ant-wireless/ant_service" remote="github" revision="n7x-caf" />
