@@ -10,32 +10,4 @@
   <project name="DirtyUnicorns/android_external_ant-wireless_antradio-library" path="external/ant-wireless/antradio-library" remote="github" revision="n7x-caf" />
   <project name="DirtyUnicorns/android_external_ant-wireless_ant_native" path="external/ant-wireless/antant_native" remote="github" revision="n7x-caf" />
   <project name="DirtyUnicorns/android_external_ant-wireless_ant_service" path="external/ant-wireless/ant_service" remote="github" revision="n7x-caf" />
-  <remove-project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" />
-  <remove-project path="hardware/qcom/msm8996" name="platform/hardware/qcom/msm8996" />
-  <remove-project path="hardware/qcom/msm8x26" name="platform/hardware/qcom/msm8x26" />
-  <remove-project path="hardware/qcom/msm8x27" name="platform/hardware/qcom/msm8x27" />
-  <remove-project path="hardware/qcom/msm8x84" name="platform/hardware/qcom/msm8x84" />
-  <remove-project path="prebuilts/clang/host/darwin-x86" name="platform/prebuilts/clang/host/darwin-x86" />
-  <remove-project path="prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
-  <remove-project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" />
-  <remove-project path="prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" />
-  <remove-project path="prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" />
-  <remove-project path="prebuilts/gdb/darwin-x86" name="platform/prebuilts/gdb/darwin-x86" />
-  <remove-project path="prebuilts/go/darwin-x86" name="platform/prebuilts/go/darwin-x86" />
-  <remove-project path="prebuilts/python/darwin-x86/2.7.5" name="platform/prebuilts/python/darwin-x86/2.7.5" />
-  <remove-project path="hardware/bsp/intel" name="platform/hardware/bsp/intel" />
-  <remove-project path="hardware/intel/audio_media" name="platform/hardware/intel/audio_media" />
-  <remove-project path="hardware/intel/bootstub" name="platform/hardware/intel/bootstub" />
-  <remove-project path="hardware/intel/common/bd_prov" name="platform/hardware/intel/common/bd_prov" />
-  <remove-project path="hardware/intel/common/libmix" name="platform/hardware/intel/common/libmix" />
-  <remove-project path="hardware/intel/common/libstagefrighthw" name="platform/hardware/intel/common/libstagefrighthw" />
-  <remove-project path="hardware/intel/common/libva" name="platform/hardware/intel/common/libva" />
-  <remove-project path="hardware/intel/common/libwsbm" name="platform/hardware/intel/common/libwsbm" />
-  <remove-project path="hardware/intel/common/omx-components" name="platform/hardware/intel/common/omx-components" />
-  <remove-project path="hardware/intel/common/utils" name="platform/hardware/intel/common/utils" />
-  <remove-project path="hardware/intel/common/wrs_omxil_core" name="platform/hardware/intel/common/wrs_omxil_core" />
-  <remove-project path="hardware/intel/img/hwcomposer" name="platform/hardware/intel/img/hwcomposer" />
-  <remove-project path="hardware/intel/img/psb_headers" name="platform/hardware/intel/img/psb_headers" />
-  <remove-project path="hardware/intel/img/psb_video" name="platform/hardware/intel/img/psb_video" />
-  <remove-project path="hardware/intel/sensors" name="platform/hardware/intel/sensors" />
 </manifest>
