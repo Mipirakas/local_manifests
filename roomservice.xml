@@ -11,4 +11,11 @@
   <project name="DirtyUnicorns/android_external_ant-wireless_antradio-library" path="external/ant-wireless/antradio-library" remote="github" revision="n7x-caf" />
   <project name="DirtyUnicorns/android_external_ant-wireless_ant_native" path="external/ant-wireless/antant_native" remote="github" revision="o8x-caf" />
   <project name="DirtyUnicorns/android_external_ant-wireless_ant_service" path="external/ant-wireless/ant_service" remote="github" revision="n7x-caf" />
+
+  <remove-project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" />
+  <remove-project path="hardware/qcom/msm8996" name="platform/hardware/qcom/msm8996" />
+  <remove-project path="hardware/qcom/msm8x26" name="platform/hardware/qcom/msm8x26" />
+  <remove-project path="hardware/qcom/msm8x27" name="platform/hardware/qcom/msm8x27" />
+  <remove-project path="hardware/qcom/msm8x84" name="platform/hardware/qcom/msm8x84" />
+  <remove-project path="prebuilts/clang/host/darwin-x86" name="platform/prebuilts/clang/host/darwin-x86" />
 </manifest>
