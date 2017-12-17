@@ -4,14 +4,14 @@
   <project name="Mipirakas/android_kernel_oneplus_msm8994" path="kernel/oneplus/msm8994" remote="github" revision="shreesha-du" />
   <project name="Mipirakas/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="shreesha-du" />
   <project name="Mipirakas/android_device_oppo_common-1" path="device/oppo/common" remote="github" revision="o8x-caf" />
-  <project name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8994" remote="github" revision="lineage-15.0-caf-8994" />
+  <project name="DirtyUnicorns/android_system_qcom" path="system/qcom" remote="github" revision="o8x-caf" />
+<!-- <project name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8994" remote="github" revision="lineage-15.0-caf-8994" />
   <project name="Shreeesha/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8994" remote="github" revision="lineage-15.0-caf-8994" />
   <project name="LineageOS/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8994" remote="github" revision="lineage-15.0-caf-8994" />
-  <project name="DirtyUnicorns/android_system_qcom" path="system/qcom" remote="github" revision="o8x-caf" />
   <project name="DirtyUnicorns/android_external_ant-wireless_antradio-library" path="external/ant-wireless/antradio-library" remote="github" revision="n7x-caf" />
   <project name="DirtyUnicorns/android_external_ant-wireless_ant_native" path="external/ant-wireless/antant_native" remote="github" revision="o8x-caf" />
   <project name="DirtyUnicorns/android_external_ant-wireless_ant_service" path="external/ant-wireless/ant_service" remote="github" revision="n7x-caf" />
-
+-->
   <remove-project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" />
   <remove-project path="hardware/qcom/msm8996" name="platform/hardware/qcom/msm8996" />
   <remove-project path="hardware/qcom/msm8x26" name="platform/hardware/qcom/msm8x26" />
