@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+
+  <remove-project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" />
+  <remove-project path="hardware/qcom/msm8996" name="platform/hardware/qcom/msm8996" />
+  <remove-project path="hardware/qcom/msm8x26" name="platform/hardware/qcom/msm8x26" />
+  <remove-project path="hardware/qcom/msm8x27" name="platform/hardware/qcom/msm8x27" />
+  <remove-project path="hardware/qcom/msm8x84" name="platform/hardware/qcom/msm8x84" />
+  <remove-project path="prebuilts/clang/host/darwin-x86" name="platform/prebuilts/clang/host/darwin-x86" />
+  <remove-project path="build/blueprint" name="platform/build/blueprint" />
+
 <!--
   <project name="Mipirakas/android_device_oneplus_oneplus2" path="device/oneplus/oneplus2" remote="github" revision="shreesha-du" />
   <project name="Mipirakas/android_kernel_oneplus_msm8994" path="kernel/oneplus/msm8994" remote="github" revision="shreesha-du" />
@@ -13,10 +22,5 @@
   <project name="DirtyUnicorns/android_external_ant-wireless_ant_native" path="external/ant-wireless/antant_native" remote="github" revision="o8x-caf" />
   <project name="DirtyUnicorns/android_external_ant-wireless_ant_service" path="external/ant-wireless/ant_service" remote="github" revision="n7x-caf" />
 -->
-  <remove-project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" />
-  <remove-project path="hardware/qcom/msm8996" name="platform/hardware/qcom/msm8996" />
-  <remove-project path="hardware/qcom/msm8x26" name="platform/hardware/qcom/msm8x26" />
-  <remove-project path="hardware/qcom/msm8x27" name="platform/hardware/qcom/msm8x27" />
-  <remove-project path="hardware/qcom/msm8x84" name="platform/hardware/qcom/msm8x84" />
-  <remove-project path="prebuilts/clang/host/darwin-x86" name="platform/prebuilts/clang/host/darwin-x86" />
+  <project name="Mipirakas/android_build_blueprint" path="build/blueprint" remote="github" revision="o8x" />
 </manifest>
