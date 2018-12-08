@@ -13,7 +13,7 @@
     <project name="Mipirakas/android_device_oneplus_msm8998-common" path="device/oneplus/msm8998-common" remote="github" revision="p9x-caf" />
     <project name="Mipirakas/android_kernel_oneplus_msm8998" path="kernel/oneplus/msm8998" remote="github" revision="p9x-caf" />
     <project name="Mipirakas/android_vendor_oneplus" path="vendor/oneplus" remote="github" revision="p9x-caf" />
-    <project name="Mipirakas/android_device_oneplus_extras" path="device/oneplus/extras" remote="github" revision="p9x-caf" />
+    <project name="DirtyUnicorns/android_device_oneplus_extras" path="device/oneplus/extras" remote="github" revision="p9x-caf" />
     <project name="DirtyUnicorns/android_system_qcom" path="system/qcom" remote="github" revision="p9x-caf" />
 
 </manifest>
