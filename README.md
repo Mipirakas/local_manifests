@@ -5,6 +5,6 @@ To build, execute the following commands in following order:
 
 $ . build/envsetup.sh
 
-$ lunch du_oneplus2-userdebug (OR lunch du_oneplus2-user)
+$ lunch du_cheeseburger-userdebug (OR lunch du_cheeseburger-user)
 
 $ mka bacon
