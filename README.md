@@ -8,3 +8,5 @@ $ . build/envsetup.sh
 $ lunch du_cheeseburger-userdebug (OR lunch du_cheeseburger-user)
 
 $ mka bacon
+
+Remember to install libncurses5 ;)
